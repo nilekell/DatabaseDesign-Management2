@@ -1,0 +1,6 @@
+COMPANY_RANK, COMPANY_NAME, COUNTRY_TERRITORY, EMPLOYEES
+1, Samsung Electronics, South Korea, 266673
+2, Microsoft, United States of America, 221000
+3, IBM, United States of America, 250000
+4, Alphabet, United States of America, 156500
+5, Apple, United States of America, 154000
